@@ -1,0 +1,6 @@
+c:\users\korriban\documents\visual studio 2013\Projects\CounterAL\CounterAL\bin\Debug\CounterAL.exe.config
+c:\users\korriban\documents\visual studio 2013\Projects\CounterAL\CounterAL\obj\Debug\CounterAL.csprojResolveAssemblyReference.cache
+c:\users\korriban\documents\visual studio 2013\Projects\CounterAL\CounterAL\bin\Debug\CounterAL.exe
+c:\users\korriban\documents\visual studio 2013\Projects\CounterAL\CounterAL\bin\Debug\CounterAL.pdb
+c:\users\korriban\documents\visual studio 2013\Projects\CounterAL\CounterAL\obj\Debug\CounterAL.exe
+c:\users\korriban\documents\visual studio 2013\Projects\CounterAL\CounterAL\obj\Debug\CounterAL.pdb

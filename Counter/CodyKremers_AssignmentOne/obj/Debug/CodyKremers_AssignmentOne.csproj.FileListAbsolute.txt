@@ -1,0 +1,20 @@
+C:\Users\Korriban\documents\visual studio 2013\Projects\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.exe.config
+C:\Users\Korriban\documents\visual studio 2013\Projects\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.csprojResolveAssemblyReference.cache
+C:\Users\Korriban\documents\visual studio 2013\Projects\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.exe
+C:\Users\Korriban\documents\visual studio 2013\Projects\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.pdb
+C:\Users\Korriban\documents\visual studio 2013\Projects\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.exe
+C:\Users\Korriban\documents\visual studio 2013\Projects\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.pdb
+d:\Users\ckremers\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.exe.config
+d:\Users\ckremers\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.exe
+d:\Users\ckremers\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.pdb
+d:\Users\ckremers\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.exe
+d:\Users\ckremers\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.pdb
+F:\DataStructuresAndAlgorithms\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.exe.config
+F:\DataStructuresAndAlgorithms\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.exe
+F:\DataStructuresAndAlgorithms\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.pdb
+C:\Users\Korriban\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.exe.config
+C:\Users\Korriban\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.exe
+C:\Users\Korriban\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\bin\Debug\CodyKremers_AssignmentOne.pdb
+C:\Users\Korriban\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.exe
+C:\Users\Korriban\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.pdb
+C:\Users\Korriban\Desktop\CodyKremers_AssignmentOne\CodyKremers_AssignmentOne\obj\Debug\CodyKremers_AssignmentOne.csprojResolveAssemblyReference.cache
